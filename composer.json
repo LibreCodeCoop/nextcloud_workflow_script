@@ -1,0 +1,8 @@
+{
+    "name": "librecodecoop/nextcloud-cron-schedule",
+    "type": "package",
+    "license": "AGPLv2",
+    "require": {
+        "peppeocchi/php-cron-scheduler": "^4.0"
+    }
+}
