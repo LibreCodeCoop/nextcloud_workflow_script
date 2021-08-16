@@ -1,6 +1,8 @@
 # Schedule video streaming
 
-Schedule video streaming using Nextcloud External Script
+Goals:
+
+Run Nextcloud External Script to schedule stremaming of mp4 file
 
 - [Schedule video streaming](#schedule-video-streaming)
 - [Requirements](#requirements)
