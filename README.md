@@ -1,6 +1,8 @@
-# Schedule video streaming using Nextcloud External Script
+# Schedule video streaming
 
-- [Schedule video streaming using Nextcloud External Script](#schedule-video-streaming-using-nextcloud-external-script)
+Schedule video streaming using Nextcloud External Script
+
+- [Schedule video streaming](#schedule-video-streaming)
 - [Requirements](#requirements)
 - [Setup](#setup)
   - [Structure of run script](#structure-of-run-script)
