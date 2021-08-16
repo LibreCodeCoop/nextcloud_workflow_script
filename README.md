@@ -1,5 +1,10 @@
 # Schedule video streaming using Nextcloud External Script
 
+## Requirements
+
+* Composer
+* ffmpeg
+
 ## Setup
 
 * Clone this repository
